@@ -2,22 +2,6 @@
 
 ![](https://github.com/JoeyQiuYang/JoeyQiuYang/blob/master/ha.jpg)
 
-<details>
-  <summary>### 给组件绑定的事件为什么无法触发？</summary>
-  
-  在 Vue 2.0 中，为**自定义**组件绑定**原生**事件必须使用 `.native` 修饰符：
-  ```html
-  <my-component @click.native="handleClick">Click Me</my-component>
-  ```
-  
-  从易用性的角度出发，我们对 `Button` 组件进行了处理，使它可以监听 `click` 事件：
-  ```html
-  <el-button @click="handleButtonClick">Click Me</el-button>
-  ```
-  
-  但是对于其他组件，还是需要添加 `.native` 修饰符。
-</details>
-
 ## 联系我
 1. [QQ：1736315428](http://wpa.qq.com/msgrd?v=3&uin=1736315428&site=qq&menu=yes)
 2. [github](https://github.com/QiuyangQ)
@@ -57,14 +41,3 @@
 6. 熟悉MQ消息队列
 7. 熟悉dubbo分布式管理，了解RPC调用原理
 8. 熟练使用git，maven，jekenis,gitlab等工具
-
-19年愿景：
-
-- 熟悉vue,react.angular,并阅读vue源码（完成）
-- 深入理解webpack（继续深入中）
-- 完成自己ui组件库（未开始，都奉献给公司啦）
-- 深入学习node（继续学习）
-- PWA（完成）
-- Electron（完成）
-- 数据可视化D3.js，three.js（未开始）
-- 以上
