@@ -6,8 +6,7 @@
 1. [QQ：1736315428](http://wpa.qq.com/msgrd?v=3&uin=1736315428&site=qq&menu=yes)
 2. [JoeyQiuYang's Github](https://github.com/JoeyQiuYang)
 3. [掘金](https://juejin.im/user/5a5e1680518825734d14a1d7)
-4. <a href="tel:17621516394">手机</a>
-5. 微信号：QLQ_CODE
+4. 微信号：QLQ_CODE
 
 
 ## 我的技能表
