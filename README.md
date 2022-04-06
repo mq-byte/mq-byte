@@ -1,6 +1,6 @@
 ### No System Is Safe
 
-![](https://github.com/mq-byte/mq-byte/blob/master/ha.jpg)
+![](https://github.com/mq-byte/mq-byte/blob/master/4-times-happy.jpeg)
 
 ## 联系我
 1. [QQ：1736315428](http://wpa.qq.com/msgrd?v=3&uin=1736315428&site=qq&menu=yes)
